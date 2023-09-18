@@ -4,4 +4,4 @@ Made a weather app that allows users to search a city by name and retrieve the c
 
 ![weatherapp](https://github.com/Jdelg140/Weather-app/assets/128998284/77ecf182-98b5-4bac-ac99-fae41a9f86b5)
 
-
+[link](https://jdelg140.github.io/Weather-app/)
